@@ -1,13 +1,13 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3729
 
-    *Galaxy* is a colorscheme tries to make colorscheming simpler.
+**Galaxy** is a colorscheme tries to make colorscheming simpler.
     
     A nice colorscheme is good for our eyes (and display).
     But generating one is not that easy.
     When generating a colorschemes, you must dealing with lots of issues: 
     colors, highlight groups, syntaxs, terminals...
 
-    |Galaxy| tries to simplifiy these works. 
+    Galaxy tries to simplifiy these works. 
     
     It classifies highlights in 'bgd','fgd','syn','msg','dif' group,
     and automatically generate these highlight colors with these 5 group's 
@@ -19,11 +19,13 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=3729
     Also Scheme Window, Screen Window, Terminal Support, Stylish Statusline,
     Indent Highlight and more...
 
-    Some Pictures:~
-
+    
+**Some Pictures:**
+        
         Normal (Git Dif) : http://img.ly/images/4154624/full
+
         Screen & Scheme  : http://img.ly/images/4154631/full
 
 
-    Post issues at https://github.com/Rykka/vim-galaxy
+Post issues at https://github.com/Rykka/galaxy.vim
 
